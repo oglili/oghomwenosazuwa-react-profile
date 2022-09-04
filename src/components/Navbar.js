@@ -23,7 +23,7 @@ const Navbar = () => {
             showLinks ? 'links-container show-container' : 'links-container'
           }`}
         >
-          <ul className='links'>
+          <ul className='links me'>
             {links.map((link) => {
               const { id, url, text } = link;
               return (
