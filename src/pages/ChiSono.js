@@ -14,8 +14,8 @@ const ChiSono = () => {
           Interessato allo spettro front-end e back-end dello sviluppo web e
           pronto a lavorare con persone positive.
         </p>
+        <Footer />
       </div>
-      <Footer />
     </>
   );
 };
