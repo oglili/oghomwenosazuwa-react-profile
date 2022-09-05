@@ -25,6 +25,8 @@ const ContactForm = () => {
           console.log(error.text);
         }
       );
+
+    e.target.reset();
   };
 
   useEffect(() => {

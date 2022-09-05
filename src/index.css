@@ -128,8 +128,9 @@ p {
   margin: 0 auto;
   max-width: var(--max-width);
 }
-.chi-title {
-  height: 70vh;
+.chi-title,
+.contact {
+  height: calc(100vh - 150px);
 }
 @media screen and (min-width: 992px) {
   .section {
@@ -402,9 +403,6 @@ Conttati
   text-align: center;
 }
 
-.contact {
-  height: 70vh;
-}
 .form-body {
   width: 80vw;
   margin: 0 auto;
