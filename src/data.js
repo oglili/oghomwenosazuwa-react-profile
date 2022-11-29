@@ -88,10 +88,10 @@ export const items = [
 
   {
     id: 7,
-    title: 'Bonny REST Api',
+    title: 'Bonny REST Api (PHP)',
     category: 'Php',
     img: '../type-api.jpg',
-    url: 'http://localhost:8080/api/type/read.php',
+    url: 'http://localhost:8080/api/service/read.php',
     desc: `Si tratta di una API JSON RESTful per implementare la dashboard di una startup chiamata Bonny nata per semplificare la vita dei cittadini italiani rendendo più accessibili e comprensibili i servizi e i bonus statali dei cittadini..`,
   },
 ];
