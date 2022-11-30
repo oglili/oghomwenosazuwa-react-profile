@@ -82,7 +82,7 @@ export const items = [
     title: 'html personal profile',
     category: 'html',
     img: '../og-html-personal.jpg',
-    url: 'https://oglili.github.io/oghomwenosazuwa/',
+    url: 'https://oghomwenosazuwa-react-profile.vercel.app/',
     desc: `Questo è un progetto per rappresentare me e quello che faccio.`,
   },
 
@@ -91,7 +91,7 @@ export const items = [
     title: 'Bonny REST Api (PHP)',
     category: 'Php',
     img: '../type-api.jpg',
-    url: 'http://localhost:8080/api/service/read.php',
+    url: 'https://course-cat-api.herokuapp.com/api/v1/courses',
     desc: `Si tratta di una API JSON RESTful per implementare la dashboard di una startup chiamata Bonny nata per semplificare la vita dei cittadini italiani rendendo più accessibili e comprensibili i servizi e i bonus statali dei cittadini..`,
   },
 ];
